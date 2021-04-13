@@ -1,0 +1,12 @@
+--- 12.04.2021 ---
+
+* RebornKernel update 4.14.230
+* LineageOS security patch: 5 April 2021
+* Updated LineageOS sources
+* Updated SELinux policy
+* Minimum debug info
+* Graphics performance optimizations
+* Audio configs optimizations
+* Added OTA support
+
+-------------------
